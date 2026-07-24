@@ -117,7 +117,7 @@ Professional registration form with client-side validation using JavaScript.
 ## 📫 Connect With Me
 
 - 📧 Email: puttapavan25@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pavan-p-1922762ba/
+- 💼 LinkedIn: https://www.linkedin.com/in/pavan-p-1922762ba?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
 ---
